@@ -17,7 +17,7 @@ I'm also interested in increasing my DevOps knowledge :whale:
 <br />
 And I'd love to start contributing to open source :penguin:
 
-### Fun fact&nbsp; <img src="https://media.giphy.com/media/W4p9FR45765il3VVYj/giphy.gif" width="24px">
+### Fun fact&nbsp; <img src="https://media.giphy.com/media/TJgkZq0qPgeTQEyICd/giphy.gif" width="24px">
 My first job was developing videogames! :space_invader:
 
 
