@@ -1,4 +1,4 @@
-![](https://github.com/elianalopezv/elianalopezv/blob/main/elianalopezv-github-header.png)
+[//]: ![](https://github.com/elianalopezv/elianalopezv/blob/main/elianalopezv-github-header.png)
 
 ### Hi there! <img src="https://media.giphy.com/media/2t9xWdjuhTpa99pLma/giphy.gif" width="30px">
 And welcome to my GH profile :v:
