@@ -4,7 +4,7 @@
 And welcome to my GH profile :v:
 
 ### What I do <img src="https://media.giphy.com/media/iDaCeaKrHhUI1I8e2b/giphy.gif" width="30px" height="30px">
-I do full stack development. I've worked mainly with React, Java, Python and Go.
+I do full stack web development. I've worked mainly with React, Java, Python and Go.
 <br />
 I don't limit myself to a single tool or language, so I try to learn a bit of everything I need on the way! :rocket:
 
