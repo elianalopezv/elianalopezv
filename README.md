@@ -6,10 +6,10 @@ And welcome to my GH profile :v:
 ### What I do <img src="https://media.giphy.com/media/iDaCeaKrHhUI1I8e2b/giphy.gif" width="30px" height="30px">
 I do full stack web development. I've worked mainly with React, Java, Python and Go.
 <br />
-I don't limit myself to a single tool or language, so I try to learn a bit of everything I need on the way! :rocket:
+I enjoy picking up new skills and can quickly adapt to new technologies. This has allowed me to gain experience in multiple languages and tools! :rocket:
 
 ### What I want to learn <img src="https://media.giphy.com/media/BjWcUDr45IVL4lqVvq/giphy.gif" width="30px" height="30px">
-I'm currently focused on increasing my DevOps knowledge :whale:
+I'm currently focused on growing my DevOps skills :whale:
 <br />
 I'm also curious about UI Design and how to create cool stuff with CSS :nail_care:
 <br />
