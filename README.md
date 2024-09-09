@@ -4,14 +4,14 @@
 And welcome to my GH profile :v:
 
 ### What I do <img src="https://media.giphy.com/media/iDaCeaKrHhUI1I8e2b/giphy.gif" width="30px" height="30px">
-I do full-stack development. I've worked mainly with React, Java, Python and Go, but I like to be versatile.
+I’m a full-stack developer experienced in React, Go, Python, and Java. Currently expanding into DevOps, focusing on CI/CD pipelines, AWS, infrastructure as code, and system monitoring 🐳
 <br />
-I enjoy picking up new skills and can quickly adapt to new technologies :rocket:
+I enjoy being versatile and picking up new skills! :rocket:
 
 ### What I want to learn <img src="https://media.giphy.com/media/BjWcUDr45IVL4lqVvq/giphy.gif" width="30px" height="30px">
-I'm currently focused on growing my DevOps skills :whale:
+I want to grow my DevOps skills and dive into SRE principles for better system performance and reliability :wrench:
 <br />
-I'm also curious about UI Design and how to create cool stuff with CSS :nail_care:
+I’d like to continue working on improving developers' experience to speed up feature shipping :speedboat:
 <br />
 And I'd love to start contributing to open source :penguin:
 
