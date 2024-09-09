@@ -4,7 +4,7 @@
 And welcome to my GH profile :v:
 
 ### What I do <img src="https://media.giphy.com/media/iDaCeaKrHhUI1I8e2b/giphy.gif" width="30px" height="30px">
-I’m a full-stack developer experienced in React, Go, Python, and Java. Currently expanding into DevOps, focusing on CI/CD pipelines, AWS, infrastructure as code, and system monitoring 🐳
+I’m a full-stack developer experienced in React, Go, Python, and Java. Currently expanding into DevOps, focusing on CI/CD pipelines, AWS, infrastructure as code, and system monitoring :octopus:
 <br />
 I enjoy being versatile and picking up new skills! :rocket:
 
